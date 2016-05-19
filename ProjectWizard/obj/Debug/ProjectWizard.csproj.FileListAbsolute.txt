@@ -1,0 +1,7 @@
+c:\users\bhkrish\documents\visual studio 2015\Projects\ProjectWizard\ProjectWizard\bin\Debug\ProjectTemplates\office-addin-node-template.zip
+c:\users\bhkrish\documents\visual studio 2015\Projects\ProjectWizard\ProjectWizard\bin\Debug\ProjectWizard.vsix
+c:\users\bhkrish\documents\visual studio 2015\Projects\ProjectWizard\ProjectWizard\bin\Debug\extension.vsixmanifest
+c:\users\bhkrish\documents\visual studio 2015\Projects\ProjectWizard\ProjectWizard\obj\Debug\ProjectWizard.csprojResolveAssemblyReference.cache
+c:\users\bhkrish\documents\visual studio 2015\Projects\ProjectWizard\ProjectWizard\obj\Debug\ProjectWizard.dll
+c:\users\bhkrish\documents\visual studio 2015\Projects\ProjectWizard\ProjectWizard\obj\Debug\ProjectWizard.pdb
+c:\users\bhkrish\documents\visual studio 2015\Projects\ProjectWizard\ProjectWizard\obj\Debug\extension.vsixmanifest
