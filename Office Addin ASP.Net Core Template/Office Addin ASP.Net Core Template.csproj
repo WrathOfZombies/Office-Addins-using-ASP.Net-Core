@@ -13,8 +13,8 @@
     <ProjectGuid>{67C50254-D4EE-4957-B1A6-A3B3BEC8B62E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ProjectWizard</RootNamespace>
-    <AssemblyName>ProjectWizard</AssemblyName>
+    <RootNamespace>OfficeAddinCore</RootNamespace>
+    <AssemblyName>Office Addin ASP.Net Core Template</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <GeneratePkgDefFile>false</GeneratePkgDefFile>
     <IncludeAssemblyInVSIXContainer>false</IncludeAssemblyInVSIXContainer>

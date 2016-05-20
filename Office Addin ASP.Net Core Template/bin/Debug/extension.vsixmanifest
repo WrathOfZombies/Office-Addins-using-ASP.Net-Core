@@ -1,8 +1,8 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
   <Metadata>
-    <Identity Id="ProjectWizard.Bhargav Krishna.63d6ed70-24b8-41f4-abac-821942bd1af5" Version="1.0" Language="en-US" Publisher="Bhargav Krishna" />
-    <DisplayName>ProjectWizard</DisplayName>
-    <Description>Empty VSIX Project.</Description>
+    <Identity Id="OfficeAddin.63d6ed70-24b8-41f4-abac-821942bd1af5" Version="1.0" Language="en-US" Publisher="Bhargav Krishna" />
+    <DisplayName>Office Add-in ASP.Net Core Templates</DisplayName>
+    <Description xml:space="preserve">Project that allows creation of Office Add-ins using node.js or IIS as web servers.</Description>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0,15.0]" />
