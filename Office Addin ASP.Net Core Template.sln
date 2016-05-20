@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectWizard", "ProjectWizard\ProjectWizard.csproj", "{67C50254-D4EE-4957-B1A6-A3B3BEC8B62E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Office Addin ASP.Net Core Template", "Office Addin ASP.Net Core Template\Office Addin ASP.Net Core Template.csproj", "{67C50254-D4EE-4957-B1A6-A3B3BEC8B62E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
