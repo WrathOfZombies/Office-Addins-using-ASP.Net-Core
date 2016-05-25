@@ -5,12 +5,3 @@ C:\Users\bhkrish\Documents\Visual Studio 2015\Projects\Office Addin ASP.Net Core
 C:\Users\bhkrish\Documents\Visual Studio 2015\Projects\Office Addin ASP.Net Core Template\Office Addin ASP.Net Core Template\obj\Debug\Office Addin ASP.Net Core Template.dll
 C:\Users\bhkrish\Documents\Visual Studio 2015\Projects\Office Addin ASP.Net Core Template\Office Addin ASP.Net Core Template\obj\Debug\Office Addin ASP.Net Core Template.pdb
 C:\Users\bhkrish\Documents\Visual Studio 2015\Projects\Office Addin ASP.Net Core Template\Office Addin ASP.Net Core Template\obj\Debug\Office Addin ASP.Net Core Template.csprojResolveAssemblyReference.cache
-C:\Users\bhkrish\Documents\Projects\Office-Addins-using-ASP.Net-Core\Office Addin ASP.Net Core Template\bin\Debug\Office Addin ASP.Net Core Template.vsix
-C:\Users\bhkrish\Documents\Projects\Office-Addins-using-ASP.Net-Core\Office Addin ASP.Net Core Template\bin\Debug\extension.vsixmanifest
-C:\Users\bhkrish\Documents\Projects\Office-Addins-using-ASP.Net-Core\Office Addin ASP.Net Core Template\obj\Debug\Office Addin ASP.Net Core Template.csprojResolveAssemblyReference.cache
-C:\Users\bhkrish\Documents\Projects\Office-Addins-using-ASP.Net-Core\Office Addin ASP.Net Core Template\obj\Debug\Office Addin ASP.Net Core Template.dll
-C:\Users\bhkrish\Documents\Projects\Office-Addins-using-ASP.Net-Core\Office Addin ASP.Net Core Template\obj\Debug\Office Addin ASP.Net Core Template.pdb
-C:\Users\bhkrish\Documents\Projects\Office-Addins-using-ASP.Net-Core\Office Addin ASP.Net Core Template\obj\Debug\extension.vsixmanifest
-C:\Users\bhkrish\Documents\Projects\Office-Addins-using-ASP.Net-Core\Office Addin ASP.Net Core Template\bin\Debug\__PreviewImage.PNG
-C:\Users\bhkrish\Documents\Projects\Office-Addins-using-ASP.Net-Core\Office Addin ASP.Net Core Template\bin\Debug\__TemplateIcon.png
-C:\Users\bhkrish\Documents\Projects\Office-Addins-using-ASP.Net-Core\Office Addin ASP.Net Core Template\bin\Debug\ProjectTemplates\basic-project-template.zip
