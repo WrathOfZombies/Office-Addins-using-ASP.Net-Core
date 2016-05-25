@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="OfficeAddin.63d6ed70-24b8-41f4-abac-821942bd1af5" Version="1.0.4" Language="en-US" Publisher="Bhargav Krishna" />
+    <Identity Id="OfficeAddin.63d6ed70-24b8-41f4-abac-821942bd1af5" Version="1.0.5" Language="en-US" Publisher="Bhargav Krishna" />
     <DisplayName>Office Add-in Templates using ASP.Net Core</DisplayName>
     <Description xml:space="preserve">Templates that allows creation of Office Add-ins using node.js or IIS as web servers.</Description>
     <Icon>__TemplateIcon.png</Icon>

@@ -3,3 +3,4 @@
 /Office Addin ASP.Net Core Template/*.user
 
 .vs/**
+/Office Addin ASP.Net Core Template/ProjectTemplates/basic-addin-template
