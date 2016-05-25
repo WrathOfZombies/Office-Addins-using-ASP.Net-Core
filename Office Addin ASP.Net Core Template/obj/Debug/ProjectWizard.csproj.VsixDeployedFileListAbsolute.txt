@@ -1,2 +1,0 @@
-C:\Users\bhkrish\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Bhargav Krishna\ProjectWizard\1.0\\extension.vsixmanifest
-C:\Users\bhkrish\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Bhargav Krishna\ProjectWizard\1.0\ProjectTemplates\\office-addin-node-template.zip

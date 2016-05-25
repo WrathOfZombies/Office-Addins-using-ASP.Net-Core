@@ -1,5 +1,6 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+/Office Addin ASP.Net Core Template/bin/**
+/Office Addin ASP.Net Core Template/obj/**
+/Office Addin ASP.Net Core Template/*.user
 
-/Office Addin ASP.Net Core Template
+.vs/**
+/Office Addin ASP.Net Core Template/ProjectTemplates/basic-addin-template
