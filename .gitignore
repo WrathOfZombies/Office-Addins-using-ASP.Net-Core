@@ -1,5 +1,5 @@
 /Office Addin ASP.Net Core Template/bin/**
 /Office Addin ASP.Net Core Template/obj/**
-/Office Addin ASP.Net Core Template/.user
+/Office Addin ASP.Net Core Template/*.user
 
 .vs/**
