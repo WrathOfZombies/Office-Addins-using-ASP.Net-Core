@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="OfficeAddin.63d6ed70-24b8-41f4-abac-821942bd1af5" Version="1.0.5" Language="en-US" Publisher="Bhargav Krishna" />
-    <DisplayName>Office Add-in Templates using ASP.Net Core</DisplayName>
+    <Identity Id="OfficeAddin.63d6ed70-24b8-41f4-abac-821942bd1af5" Version="1.1.2" Language="en-US" Publisher="Bhargav Krishna" />
+    <DisplayName>Office Add-ins Extended Templates</DisplayName>
     <Description xml:space="preserve">Templates that allows creation of Office Add-ins using node.js or IIS as web servers.</Description>
     <Icon>__TemplateIcon.png</Icon>
     <PreviewImage>__PreviewImage.PNG</PreviewImage>
@@ -18,5 +18,6 @@
   </Dependencies>
   <Assets>
     <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\basic-addin-template.zip" />
+    <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\angular2-addin-template.zip" />
   </Assets>
 </PackageManifest>
